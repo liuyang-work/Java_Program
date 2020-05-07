@@ -32,7 +32,7 @@ public class Demo04SringConvent {
         System.out.println(str3);
         System.out.println("=================");
 
-        
+
         String lang1 = "you can?fuck";
         String lang2 = lang1.replace("fuck", "****");
         System.out.println(lang2);
